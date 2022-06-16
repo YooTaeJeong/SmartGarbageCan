@@ -1,5 +1,6 @@
 # SmartGarbageCan
 스마트 음식물 쓰레기통
+
 ![image](https://user-images.githubusercontent.com/80680728/173971385-c22f59ca-b3bf-4dc6-a335-d862a5f259ff.png)
 
 ![image](https://user-images.githubusercontent.com/80680728/173971437-6ecdd9e4-4737-43a4-9308-9d514f98c19d.png)
